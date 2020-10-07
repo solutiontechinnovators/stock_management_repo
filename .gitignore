@@ -1,0 +1,5 @@
+.idea/
+/mysqlclient-1.4.2-cp37-cp37m-win32.whl
+/migrations/
+/__pycache__/
+
